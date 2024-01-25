@@ -115,4 +115,14 @@ footer{
                             padding:7px;
                             color:white;
                         }
-                                                     
+                        figure {
+                            float: right;
+                            border: 1px solid gray;
+                            padding: 0.25em;
+                            margin: 0 1.5em 1.5em 0;
+                            }
+                            figcaption{
+                            text-align:center;
+                            font: italic 0.9em Georgia, «Times New Roman», Times, serif;
+                            }
+                                                                                                        
