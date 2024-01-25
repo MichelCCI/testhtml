@@ -1,0 +1,118 @@
+body {
+
+    font: normal 90% "Trebuchet MS",Verdana,"Lucida Grande",Tahoma,Arial,Helvetica,Sans-Se-
+    rif;
+    
+    color: #444;background:#f4f4f4;
+    padding:0 0 2em 0;
+    margin:0;
+    }
+      header{
+        color: #ee662a;
+        background:white;
+        border-bottom:2px dotted #ccc;
+        margin:0;
+        padding:0.8em;
+        }
+ header h1{
+            font-size: 4em;
+            font-weight: normal;
+            margin:0;
+            }
+ header h2{
+                font-size: 1.5em;
+                font-weight:bold;
+                margin: 0 0 2.5em 10em;
+                color: #e74b25;
+                }
+ header img {
+    height: 8em; 
+    width: 8em;
+}
+nav {
+    background-color:#f2662a;
+    height:35px;
+    }
+    nav li{
+    float:left;
+    width:140px;
+    height:35px;
+    background-color:black;
+    text-align: center;
+    border-left: 1px white solid;
+    border-right: 1px white solid;
+    line-height:35px;
+    list-style:none;
+    }
+    nav li a{
+    color:white;
+    text-decoration:none;
+    display:block;
+    }
+    nav li a:hover{
+    background-color:#f0462b;
+    color:#ebebea;
+    }
+    section {
+        width: 600px;
+        float: left;
+        }
+        section p, h1, h2 {
+        margin-left:20px;
+        margin-right:20px;
+           }  
+ section h2 {
+            margin-top:15px;
+            }
+footer{
+                clear: both;
+                width: 400px;
+                margin-left: 20px;
+                font-size: 10px;
+                background: #f2f2f2 url(file:../images/footer_background.jpg) no-repeat left;
+                height: 118px;
+                padding-top: 10px;
+                border-top:#e2e2e2 solid 2px;
+                border-bottom:#e2e2e2 solid 2px;
+                }
+                footer{
+                    clear: both;
+                    width: 400px;
+                    margin-left: 20px;
+                    font-size: 10px;
+                    background: #f2f2f2 url(file:../images/footer_background.jpg) no-repeat left;
+                    height: 118px;
+                    padding-top: 10px;
+                    border-top:#e2e2e2 solid 2px;
+                    border-bottom:#e2e2e2 solid 2px;
+                    }                    
+                    article header{
+                        background:none;
+                        height:auto;
+                        border-bottom:none;
+                        }
+                        article header h2{
+                        color:black;
+                        margin:0;
+                        }
+                        article header p{
+                        color: gray;
+                        margin: 0;
+                        }
+                        article footer{
+                        background:none;
+                        height:auto;
+                        border:none;
+                        }
+                        article footer p{
+                        font-size:10px;
+                        }
+                        #main_aside{
+                            margin-top:15px;
+                            float: left;
+                            width: 300px;
+                            background-color: #378059;
+                            padding:7px;
+                            color:white;
+                        }
+                                                     
