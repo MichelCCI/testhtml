@@ -107,7 +107,7 @@ footer{
                         article footer p{
                         font-size:10px;
                         }
-                        #main_aside{
+                        aside {
                             margin-top:15px;
                             float: left;
                             width: 300px;
